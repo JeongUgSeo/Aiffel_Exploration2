@@ -49,7 +49,7 @@ L. Wilson, NIST Form-Based Handprint Recognition System, NISTIR 5469,
     Algorithm. NIPS. 2000.
     
 
-**Data2 설명 : **
+**Data2 설명 :**
 
 **Data Set Characteristics:**
 
